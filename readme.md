@@ -66,6 +66,6 @@ json_client поле json из client.csv
 2. Каждый пункт выполняется запуском коммандного файла, например пункт2: python3 manage.py concat_by_error_id, 
 сформирует новый csv файл new_file_2.csv объединение 2ух таблиц по error_id
 
-ЗапускЖ
+Запуск:
 1. Git clone git@github.com:Andreymazo/CsvTransferData.git
 2. pip install -r requirements.txt
