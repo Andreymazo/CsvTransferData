@@ -1,4 +1,8 @@
 csv_transfer_data/management/commands/chek.py
+server.csv
+new_without_cheaters.csv
+new_file.csv
+*.csv
 .env
 /env/
 __pycache__/
