@@ -67,4 +67,5 @@ json_client поле json из client.csv
 сформирует новый csv файл new_file_2.csv объединение 2ух таблиц по error_id
 
 ЗапускЖ
-1. Git clone 
+1. Git clone git@github.com:Andreymazo/CsvTransferData.git
+2. pip install -r requirements.txt
