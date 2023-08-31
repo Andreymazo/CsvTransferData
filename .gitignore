@@ -1,0 +1,6 @@
+csv_transfer_data/management/commands/chek.py
+.env
+/env/
+__pycache__/
+Trash/
+
