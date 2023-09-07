@@ -69,3 +69,5 @@ json_client поле json из client.csv
 Запуск:
 1. Git clone git@github.com:Andreymazo/CsvTransferData.git
 2. pip install -r requirements.txt
+
+Meowpunk, похоже, не смотрел, обратной связи по ТЗ нет.
